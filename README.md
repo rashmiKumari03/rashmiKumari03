@@ -1,3 +1,9 @@
+
+
+![Nukon-performance-people-process-technology-data](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/4f617cbd-59f4-45e0-badf-aae36c38bfa3)
+
+
+
 # 👋 Hey there !!! I'm Rashmi Kumari a Data Enthusiast😊  
 
 ![dream-job_new1](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/eb8879ec-eb28-4b20-8f08-85d00dc6de33)
