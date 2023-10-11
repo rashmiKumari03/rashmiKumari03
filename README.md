@@ -67,7 +67,7 @@ Let's connect and explore the world of data together! You can find me on [Linked
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 👩‍💻INTERSHIP EXPERIENCE
+# 👩‍💻INTERSHIP EXPERIENCE
 I've also had the privilege of working as an intern with The Sparks Foundation, where I gained hands-on experience in data-related projects. 💼
 
 
