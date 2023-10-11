@@ -1,6 +1,8 @@
 
+![fc71635c7f1b09ed30413f59bb749582 (2)](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/fff59f5c-a783-4f23-9ae3-096d7e2aaa1c)
 
-![dream-job_new1](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/eb8879ec-eb28-4b20-8f08-85d00dc6de33)
+
+
 
 # 👋 Hey there !!! I'm Rashmi Kumari a Data Enthusiast😊  
 
@@ -34,7 +36,7 @@ My journey is fueled by a passion for data, and I'm actively expanding my skill 
 
 
 
-![fc71635c7f1b09ed30413f59bb749582](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/e162f656-3fe5-40b1-b915-caf7e856aeca)
+![dream-job_new1 (1)](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/41ea8563-fdf5-431a-8d0a-e7a1be53be6f)
 
 
 
@@ -52,7 +54,11 @@ Let's connect and explore the world of data together! You can find me on [Linked
 
 
 
-![Analytics_amp_Data_Science](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/f5efaa0e-988b-4171-8e87-029182a4e2f0)
+![Analytics_amp_Data_Science (1) (1)](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/24c1784c-d9c8-48a3-94b2-291e4d63cd68)
+
+
+
+
 
 
 ## 💻Learning Journey
@@ -60,8 +66,8 @@ Let's connect and explore the world of data together! You can find me on [Linked
 
 
 
-![download](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/7051d2cb-df34-434e-bbfa-50e4e95b633c)
-![images](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/4f79f1f8-9e69-40d2-9f25-092e2b714f37)
+![download (1)](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/6c89a61b-05b6-4f5a-b1c2-397e3d032a84)     
+![images (1)](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/4f018ab2-7781-41dc-8674-6bcd43dca7f4)
 
 
 ✨Find stuff here : https://github.com/rashmiKumari03/Ineuron.ai_Learnings
@@ -72,7 +78,8 @@ Let's connect and explore the world of data together! You can find me on [Linked
 I've also had the privilege of working as an intern with The Sparks Foundation, where I gained hands-on experience in data-related projects. 💼
 
 
-![1694793353965](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/61f6e6e6-02fa-497d-89fa-dd065835af6e)
+![1694793353965 (1)](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/1b591c37-cc53-4d29-b42c-eafeb8a76c94)
+
 
 ✨Find stuff here : **Youtube link for The Sparks Foundation Task Playlist:**  (https://www.youtube.com/playlist?list=PLI-kcWb2nYztRxE2jUc0lKAIDGNc8y6Vh)
 
