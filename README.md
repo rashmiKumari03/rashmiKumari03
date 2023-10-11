@@ -1,17 +1,12 @@
 
 
-![Data-extraction-2](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/a0b86571-2113-4cc7-adc0-182e85ad4b57)
-
+![dream-job_new1](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/eb8879ec-eb28-4b20-8f08-85d00dc6de33)
 
 # 👋 Hey there !!! I'm Rashmi Kumari a Data Enthusiast😊  
 
-![dream-job_new1](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/eb8879ec-eb28-4b20-8f08-85d00dc6de33)
+## Welcome to my GitHub repository, where I document my journey in the world of data science and beyond. 📊📈
 
-
-
-# Welcome to my GitHub repository, where I document my journey in the world of data science and beyond. 📊📈
-
-## About Me
+## 🤗About Me
 - 🎓 Postgraduate in Mathematics
 - 💻 Proficient in Python for Data Science and its Libraries
 - 🌐 Python Libraries: NumPy, Pandas, Matplotlib, seaborn, sklearn and many more..
