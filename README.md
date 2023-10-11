@@ -1,7 +1,6 @@
 
 
-![Nukon-performance-people-process-technology-data](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/4f617cbd-59f4-45e0-badf-aae36c38bfa3)
-
+![Data-extraction-2](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/a0b86571-2113-4cc7-adc0-182e85ad4b57)
 
 
 # 👋 Hey there !!! I'm Rashmi Kumari a Data Enthusiast😊  
