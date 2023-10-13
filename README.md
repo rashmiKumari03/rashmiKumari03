@@ -49,11 +49,6 @@ Let's connect and explore the world of data together! You can find me on [**Link
 
 
 
-
-![Analytics_amp_Data_Science (1) (1)](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/24c1784c-d9c8-48a3-94b2-291e4d63cd68)
-
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 # 💻LEARNING JOURNEY 
@@ -86,6 +81,9 @@ I've also had the privilege of working as an intern with The Sparks Foundation, 
 ✨[**Youtube (Learnings with The Sparks Foundation Task)**](https://www.youtube.com/playlist?list=PLI-kcWb2nYztRxE2jUc0lKAIDGNc8y6Vh)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![Analytics_amp_Data_Science (1) (1)](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/24c1784c-d9c8-48a3-94b2-291e4d63cd68)
 
 # 💻PROJECTS
 
@@ -125,6 +123,9 @@ Here are  the exciting projects I've worked on:
 - [**Task 10. Using PowerBI: Dashboard on Timeline Analysis of Covid-19**](https://github.com/rashmiKumari03/Timeline-Analysis-of-Covid-19-Using-Power-Bi)
 
 - [**Task 11. Using PowerBI: Dashboard on Indian Premier League (sports)**](https://github.com/rashmiKumari03/Exploratory-Data-Analysis---Sports-Indian-Premier-League-Using-Power-Bi)
+
+
+![4](https://github.com/rashmiKumari03/rashmiKumari03/assets/86485003/8a9d4da5-e59b-450a-88bf-f9961bd4506b)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
